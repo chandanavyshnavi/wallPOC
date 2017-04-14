@@ -16,6 +16,8 @@
 		02FB195A1EA08AA300E207B8 /* WallPostPOCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FB19591EA08AA300E207B8 /* WallPostPOCUITests.swift */; };
 		02FB196C1EA08CFE00E207B8 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FB196B1EA08CFE00E207B8 /* ModelData.swift */; };
 		02FB196E1EA08E5E00E207B8 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FB196D1EA08E5E00E207B8 /* CustomTableViewCell.swift */; };
+		02FB19701EA0AF6600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.24 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 02FB196F1EA0AF6600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.24 PM.png */; };
+		02FB19721EA0AF7600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.00 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 02FB19711EA0AF7600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.00 PM.png */; };
 		2CE9A998483B6C866A428891 /* Pods_WallPostPOCUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF7CCD00CE63B41A7C84049E /* Pods_WallPostPOCUITests.framework */; };
 		96897ADACCEE43979C51CA16 /* Pods_WallPostPOC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAAF0F7B9585C36A306E9731 /* Pods_WallPostPOC.framework */; };
 		A8F9D30F88391FBA5B328BD6 /* Pods_WallPostPOCTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0DE0EE4753B2B1EF1A810A8 /* Pods_WallPostPOCTests.framework */; };
@@ -54,6 +56,8 @@
 		02FB195B1EA08AA300E207B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		02FB196B1EA08CFE00E207B8 /* ModelData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		02FB196D1EA08E5E00E207B8 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		02FB196F1EA0AF6600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.24 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 14-Apr-2017, 12.24.24 PM.png"; sourceTree = "<group>"; };
+		02FB19711EA0AF7600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.00 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 14-Apr-2017, 12.24.00 PM.png"; sourceTree = "<group>"; };
 		27F3DC19FEA71FAE91A57727 /* Pods-WallPostPOC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WallPostPOC.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WallPostPOC/Pods-WallPostPOC.debug.xcconfig"; sourceTree = "<group>"; };
 		3F8A9CD18BEB255ECE601E84 /* Pods-WallPostPOCUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WallPostPOCUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WallPostPOCUITests/Pods-WallPostPOCUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		6F96FBCAF5C70FEB51231FE8 /* Pods-WallPostPOCUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WallPostPOCUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WallPostPOCUITests/Pods-WallPostPOCUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -96,6 +100,8 @@
 		02FB192D1EA08AA300E207B8 = {
 			isa = PBXGroup;
 			children = (
+				02FB196F1EA0AF6600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.24 PM.png */,
+				02FB19711EA0AF7600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.00 PM.png */,
 				02FB19381EA08AA300E207B8 /* WallPostPOC */,
 				02FB194D1EA08AA300E207B8 /* WallPostPOCTests */,
 				02FB19581EA08AA300E207B8 /* WallPostPOCUITests */,
@@ -317,9 +323,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02FB19721EA0AF7600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.00 PM.png in Resources */,
 				02FB19441EA08AA300E207B8 /* LaunchScreen.storyboard in Resources */,
 				02FB19411EA08AA300E207B8 /* Assets.xcassets in Resources */,
 				02FB193F1EA08AA300E207B8 /* Main.storyboard in Resources */,
+				02FB19701EA0AF6600E207B8 /* Simulator Screen Shot 14-Apr-2017, 12.24.24 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
